@@ -71,6 +71,8 @@ export default {
                         </div>
                     </div>
 
+                    <span class="text-[#0000004d]"> Для тестирования: 5f8475902b0be670555f1bb3</span>
+
                     <div>
                         <button type="submit"
                             class="flex w-full m justify-center rounded-md bg-indigo-600 px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
